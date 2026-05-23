@@ -8,7 +8,7 @@ The project focuses on improving intrusion detection in modern cloud infrastruct
 
 - Kolmogorov-Arnold Networks (KAN)
 - Knowledge Distillation
-- AI-based Feature Selection
+- Random Forest-based Feature Selection
 - Explainable AI (XAI)
 - SMOTE-based imbalance handling
 - OpenStack cloud simulation
@@ -88,18 +88,6 @@ Datasets currently explored:
 ---
 
 ## 3. Feature Selection
-
-### AI-Based Feature Selection
-Techniques explored:
-- Genetic Algorithm (GA)
-- Ant Colony Optimization (ACO)
-- Particle Swarm Optimization (PSO)
-- Grey Wolf Optimization (GWO)
-
-Evaluation metrics:
-- F1-Score
-- MCC (Matthews Correlation Coefficient)
-
 ### Random Forest Feature Selection
 - Feature importance ranking
 - Noise reduction
@@ -275,3 +263,12 @@ This work aims to contribute:
 ├── results/                  # Experimental outputs and metrics
 ├── docs/                     # Research notes and documentation
 └── README.md
+```
+
+## Contributors
+Shameer Basha Shaik || shameerbasha.s24@iiits.in    || IIIT Sri City
+Chamala Abhiram Reddy || abhiramreddy.c24@iiits.in  || IIIT Sri City
+Mounish Vadagam || mounish.v24@iiits.in             || IIIT Sri City
+
+## Guide
+Dr. Kamalakanta Sethi Sir || IIIT Sri City
